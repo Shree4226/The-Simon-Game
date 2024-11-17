@@ -1,0 +1,1 @@
+The Simon Game is a memory-based game where players are challenged to repeat an increasingly complex sequence of colors and sounds. It was first introduced as an electronic game in the late 1970s and has since become a classic. The game is simple yet highly engaging, testing players' memory and focus.
